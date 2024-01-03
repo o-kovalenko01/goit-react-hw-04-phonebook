@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://o-kovalenko01.github.io/goit-react-hw-03-phonebook/",
+  "homepage": "https://o-kovalenko01.github.io/goit-react-hw-04-phonebook/",
   "dependencies": {
     "nanoid": "^5.0.4",
     "react": "^18.1.0",
